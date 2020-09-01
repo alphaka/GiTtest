@@ -3,7 +3,7 @@ Github Test for Class
 
 The purpose of the program is to determine the average of intergers.
 
-I used comment line arguments, meaning the program reads the integers entered
+I used command line arguments, meaning the program reads the integers entered
 that are separated by space and put them into the array args.
 
 A for loop is used to sum up the args array, then is divided by the length of args.
